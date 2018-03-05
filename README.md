@@ -1,2 +1,2 @@
-# testp-ython
+# test-python
 test for IDE integration
